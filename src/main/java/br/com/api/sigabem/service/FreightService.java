@@ -10,5 +10,8 @@ public class FreightService {
 	
 	private final FreightRepository freightRepository;
 	private final ViaCepClient viaCepClient;
+	
+	
+	
 
 }
